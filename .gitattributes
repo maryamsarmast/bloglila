@@ -1,2 +1,17 @@
-# Auto detect text files and perform LF normalization
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		bloglila
+	</title>
+</head>
+<body>
+<h1>my design projects</h1>
+<p>enjoy creating <b>patterns</b>...</p>
+
+<a href="https://google.com" target="_blank" title="lets go to google:)">click me</a><br>
+
+<img src="C:\Users\maryam\Desktop\1.jpg">
+</body>
+</html># Auto detect text files and perform LF normalization
 * text=auto
